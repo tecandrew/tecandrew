@@ -1,10 +1,7 @@
-### Find Me On
+### find me @
 
-- Portfolio & Blog: [enjoi.dev](https://enjoi.dev/)
+[website](https://enjoi.dev/) <img alt="enjoi.dev" align="left" width="26px" style="margin-right:15px" src="https://enjoi.dev/images/logo.png"/>
 
-- Gitlab: <a href="https://gitlab.com/tecandrew">
-  <img alt="tecandrew" align="left" width="26px" style="margin-right:15px" src="https://gitcdn.link/cdn/tecandrew/tecandrew/master/assets/gitlab.svg" />
-</a>
-- GitHub: <a href="https://github.com/tecandrew">
-  <img alt="GitHub" align="left" width="26px" style="margin-right:15px" src="https://gitcdn.link/cdn/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</a>
+[gitlab](https://gitlab.com/tecandrew) <img alt="tecandrew" align="left" width="26px" style="margin-right:15px" src="https://gitcdn.link/cdn/tecandrew/tecandrew/master/assets/gitlab.svg"/>
+
+[github](https://github.com/tecandrew) <img alt="GitHub" align="left" width="26px" style="margin-right:15px" src="https://gitcdn.link/cdn/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
