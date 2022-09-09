@@ -14,11 +14,10 @@
 ## more info
 <details>
 
-#### gitlab stats
-![gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=andrewtec)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=tecandrew&count_private=true&show_icons=true)
 
-#### github stats
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=tecandrew)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecandrew&layout=compact)
+
 
 </details>
